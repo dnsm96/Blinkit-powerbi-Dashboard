@@ -2,6 +2,8 @@
 
 This repository contains a **Sales Analytics Dashboard** built for Blinkit, India's Last Minute App. The dashboard visualizes key business metrics such as total sales, item types, outlet performance, and customer ratings.
 
+**There is also a video attachment showcasing the dashboard**
+
 ## 📊 Dashboard Overview
 
 - **Total Sales:** $1.20M
