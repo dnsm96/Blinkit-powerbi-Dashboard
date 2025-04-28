@@ -4,6 +4,9 @@ This repository contains a **Sales Analytics Dashboard** built for Blinkit, Indi
 
 **There is also a video attachment showcasing the dashboard**
 
+![Blinkit Sales Dashboard](https://github.com/dnsm96/Blinkit-powerbi-Dashboard/blob/main/blinkit_dashboard.png?raw=true)
+
+
 ## 📊 Dashboard Overview
 
 - **Total Sales:** $1.20M
