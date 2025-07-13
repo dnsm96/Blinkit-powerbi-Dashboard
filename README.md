@@ -1,4 +1,5 @@
 # Blinkit Sales Dashboard
+![blinkit](https://github.com/user-attachments/assets/6c946d2d-3369-4b3c-b145-96a29d28dd6d)
 
 This repository contains a **Sales Analytics Dashboard** built for Blinkit, India's Last Minute App. The dashboard visualizes key business metrics such as total sales, item types, outlet performance, and customer ratings.
 
